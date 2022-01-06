@@ -14,6 +14,7 @@ h1{
 .d-font{
     font-family: 'Yeseva One', cursive;
     font-size: 50px;
+    padding-left: 15px;
 }
 .bdr{
     border-left: 7px solid;
