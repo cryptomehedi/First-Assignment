@@ -19,6 +19,7 @@ h1{
     border-left: 7px solid;
     border-image: linear-gradient(orange, salmon);
     border-image-slice: 1;
+    border-width: medium;
 }
 .sec-1{
     display: flex;
@@ -37,7 +38,7 @@ h1{
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
-    margin-left: 5px;
+    margin-left: auto;
 }
 .p-center{
     text-align: center;
@@ -61,9 +62,9 @@ body{
 }
 .sec-2{
     display: flex;
-
     text-align: left;
     margin: 2px;
+    padding: 60px;
 }
 .sec-2-ban{
     background-image: url(img/shapes/shape-1.png);
@@ -82,8 +83,32 @@ body{
     text-align: left;
     width: 70%;
     padding-left: 40px;
+    padding-right: 200px;
 }
-
+.sec-3-ban{
+    background-image: url(img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 10px;
+}
+.footer-1{
+    color: lightseagreen;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+}
+.footer-2{
+    color: green;
+    font-size: 40px;
+    font-family: 'Courgette', cursive;
+}
+.footer-p{
+    color: honeydew;
+}
 
 
 
@@ -101,5 +126,5 @@ body{
     padding-left: 10%;
 }
 #sec-2-img{
-    width: 30%;
+    width: 50%;
 }
