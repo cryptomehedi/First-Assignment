@@ -72,7 +72,7 @@ body{
     padding: 60px;
 }
 .sec-2-ban{
-    background-image: url(img/shapes/shape-1.png);
+    background-image: url(Img/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 20%;
@@ -91,7 +91,7 @@ body{
     padding-right: 200px;
 }
 .sec-3-ban{
-    background-image: url(img/shapes/shape-1.png);
+    background-image: url(Img/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 15%;
@@ -113,7 +113,7 @@ body{
     width: 30%;
 }
 .sec-5-ban{
-    background-image: url(img/shapes/shape-2.png);
+    background-image: url(Img/shapes/shape-2.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 20%;
