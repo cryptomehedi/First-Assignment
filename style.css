@@ -112,6 +112,12 @@ body{
 .sec-3-img{
     width: 30%;
 }
+.sec-5-ban{
+    background-image: url(img/shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
 .mi{
     padding-bottom: 50px;
 }
